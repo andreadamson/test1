@@ -44,3 +44,5 @@ Nested List
 @github/support What do you think about these updates?
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+Let's rename \*our-new-project\* to \*our-old-project\*.
