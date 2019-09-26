@@ -7,3 +7,15 @@
 
 ~~This was mistaken text~~
 **This text is _extremely_ important**
+
+***All this text is important***
+In the words of Abraham Lincoln:
+
+> Pardon my French
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
