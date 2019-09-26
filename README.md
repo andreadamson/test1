@@ -1,17 +1,17 @@
 # test1
 26.09.2019
 
-**This is bold text**
-*This text is italicized*
+**Paks tekst**
+*Italiano tekst*
 
 
-~~This was mistaken text~~
-**This text is _extremely_ important**
+~~Mistake tekst~~
+** See on _väga_ tähtis**
 
-***All this text is important***
+***Kõik see tekst on tähtis no***
 In the words of Abraham Lincoln:
 
-> Pardon my French
+> Räägi Eesti keelt
 
 Some basic Git commands are:
 ```
@@ -22,13 +22,13 @@ git commit
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
-- George Washington
-- John Adams
-- Thomas Jefferson
+- Jevgeeni
+- Dimitris
+- Ants Jõgevalt
 
-1. James Madison
-2. James Monroe
-3. John Quincy Adams
+1. Valdis
+2. Enrique
+3. Tony
 
 Nested List
 1. First list item
@@ -37,9 +37,9 @@ Nested List
 
 
 - [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
-- [ ] \(Optional) Open a followup issue
+- [ ] Push my commits to Not live
+- [ ] Open a cold one with the boys
+- [ ] \(Optional) Open a followup issue with a female
 
 @github/support What do you think about these updates?
 
